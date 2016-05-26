@@ -8,10 +8,10 @@ Over this summer and through the upcoming school year, expect to learn the basic
 
 
 # Who we are
-##    Garrett
+## Garrett
 Hi, I’m Garrett Smith, and I go to Maryville High School.  I’ve been coding for about 3 years now, and I work with Kaleb in our web development business.  Some things I enjoy doing are playing piano, practicing violin, learning cello, and playing in the occasional game of ultimate frisbee or frisbee golf.  
 
-##    Kaleb
+## Kaleb
 I am Kaleb Davenport, and I am a student at William Blount transitioning to home school.  (Insert joke here). I have been coding for two years and have already helped in the development of three websites live on the web today.  I am a true nerd with interests in computers, rubik’s cubes, human psychology, and quantum science.  I have a passion for teaching, especially to people who want to learn!
 
 
