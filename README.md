@@ -23,17 +23,5 @@ All students 7th grade and up that go to Blount County school or homeschool grou
 We encourage you to bring technology devices including a laptop.  Power outlets will be available, so feel free to bring laptops with short-lasting batteries.  If, however, you do not have a laptop, the library has graciously provided laptops to use when necessary.
 
 
-# Extra resources for learning
-Here is a Google Doc where I (Garrett) have compiled many tutorials about different languages.  If you would like to learn a language outside of the club, please check out this link: https://docs.google.com/document/d/1B5MONYHo0sne_nPDe_xLm_cK9TQGc1kps4JxEo1XvvQ/edit 
-
-If you do not know which language to start learning, go to https://codecademy.org and pick one of the languages because they have great extremely beginner friendly courses.  
-
-## If you are still having trouble deciding a field, look at these infographics (click to enlarge): 
-![What to Learn for Programming Jobs](http://carlcheo.com/wp-content/uploads/2014/12/which-programming-language-should-i-learn-first-infographic.png)
-Source: http://carlcheo.com/startcoding
-
-![What to Learn for Programming Jobs](http://carlcheo.com/wp-content/uploads/2015/03/what-is-programming-what-do-programmers-do-infographic.jpg)
-Source: http://carlcheo.com/what-is-programming-what-do-programmers-do
-
-## Lastly, here is an extensive article about learning to code
-https://docs.google.com/document/d/15th0IFjaaT0gAYFB029sh9RM4ZSKpNyRJbbLLnMGt3Q/edit?usp=sharing 
+# Extra learning resources
+[Click here for extra resources for learning](https://github.com/BlountCountyNerdGroup/Learning-Resources)
