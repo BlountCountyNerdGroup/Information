@@ -16,7 +16,7 @@ Over this summer and through the upcoming school year, expect to learn the basic
 
 
 # Who can come?
-All students 7th grade and up that go to Blount County school or homeschool group are encouraged to come.  No prior programming knowledge is needed.  The group is **completely free for anyone to attend**
+All students 7th grade and up that go to Blount County school or homeschool group are encouraged to come.  No prior programming knowledge is needed.  The group is **completely free for anyone to attend**.
 
 
 # What to bring
