@@ -1,3 +1,6 @@
+# School Year Kickoff
+This upcoming Saturday (8/13/16), the class will be making a simple Angry Birds clone.  In the weeks afterwards, expect to learn how other games and programs work.
+
 # Date, Time, and Location
 The Blount County Nerd Group will meet at the Blount County Public Library on Saturdays at 3 PM starting June 4th.  
 Contact information: garrett.smit7@gmail.com and kaleb@wowyourclient.com
